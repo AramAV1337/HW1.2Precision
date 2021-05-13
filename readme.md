@@ -7,7 +7,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* https://github.com/AramAV1337/HW1.2Precision/issues/1
+* [Не точный расчёт бонуса](https://github.com/AramAV1337/HW1.2Precision/issues/1)
 
 
 ## Описание процесса тестирования
